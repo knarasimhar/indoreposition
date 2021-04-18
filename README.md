@@ -100,6 +100,11 @@
         
    #Step 2: Analize the near by wifi router distance and claculate the triangulization of WIFIS to respective Node
   
+      Helping links
+        
+        https://stackoverflow.com/questions/7309538/efficient-delaunay-triangulation
+        
+        
   
    #step 3: Visualize the Indoere position from Web or apps
   
