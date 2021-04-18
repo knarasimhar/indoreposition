@@ -1,5 +1,6 @@
 # indoreposition
 
+ Step 1: store data into Database
   # C# web api to read the node and wifi data from wifi repeater
   
        
@@ -96,3 +97,9 @@
 
             return getSuccessmessage("Success");
         }
+        
+   #Step 2: Analize the near by wifi router distance and claculate the triangulization of WIFIS to respective Node
+  
+  
+   #step 3: Visualize the Indoere position from Web or apps
+  
