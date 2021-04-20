@@ -104,7 +104,11 @@
         
         https://stackoverflow.com/questions/7309538/efficient-delaunay-triangulation
         
+        https://www.youtube.com/watch?v=ttkdQZpgTAk
         
+        https://beacon-planner.indooratlas.com/?venueId=f9230430-a1bb-11eb-981c-81aaef6bf804
+        
+        uid: narasiprocess pwd: imi@3
   
    #step 3: Visualize the Indoere position from Web or apps
   
